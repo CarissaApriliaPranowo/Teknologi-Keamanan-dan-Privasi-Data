@@ -1,4 +1,4 @@
-##Teknologi Keamanan dan Privasi Data
+Teknologi Keamanan dan Privasi Data
 
 Tugas individu 1
 
